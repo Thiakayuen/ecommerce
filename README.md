@@ -46,6 +46,3 @@ The database schema and relationships are documented in the included ERD diagram
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request
-
-## License
-This project is open source and available under the MIT license.
